@@ -24,6 +24,6 @@ elif(operator=="^") :
 else :
     print("Invalid Operator")
 print("Thank you for using calculator")
-     
+    //This is new check 
 
     
